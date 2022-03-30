@@ -1,5 +1,5 @@
 {
-  "name": "canvas-confetti",
+  "name": "canvas-confetti-drift",
   "version": "1.5.1",
   "description": "performant confetti animation in the browser",
   "main": "src/confetti.js",
